@@ -1,0 +1,128 @@
+@media (max-width: 1025px) {
+  main .main-text h1 {
+    font-size: 280%;
+    font-weight: 600;
+    margin-bottom: 2.3rem;
+    max-width: 90%;
+  }
+
+  main .main-text h2 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 140%;
+    font-weight: 400;
+    margin-bottom: 3.7rem;
+    max-width: 80%;
+  }
+
+  .button {
+    font-size: 1.5rem;
+  }
+
+  .button a {
+    padding-inline: 3.5rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+
+  .social a i {
+    font-size: 1.4rem;
+  }
+}
+
+@media (max-width: 900px) {
+  main .main-text h1 {
+    font-size: 260%;
+    font-weight: 600;
+    margin-bottom: 2.3rem;
+    max-width: 90%;
+  }
+
+  main .main-text h2 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 120%;
+    font-weight: 400;
+    margin-bottom: 3.7rem;
+    max-width: 80%;
+  }
+
+  .button {
+    font-size: 1.5rem;
+  }
+
+  .button a {
+    padding-inline: 3rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+  }
+
+  .social a i {
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 650px) {
+  body {
+    background-image: url(../images/bg-mobile.svg);
+    background-color: var(--primary-color);
+    background-position: cover;
+  }
+
+  main {
+    display: grid;
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "mockups"
+      "main-text";
+    width: 100%;
+  }
+
+  main .mockups {
+    width: 80%;
+    height: 80%;
+    margin-top: 10%;
+  }
+
+  main .main-text {
+    margin-inline: 2.5rem;
+    max-width: 100%;
+    margin-top: 0;
+    position: relative;
+    align-items: center;
+  }
+
+  main .main-text h1 {
+    font-size: 220%;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    text-align: center;
+    margin-inline: 1rem;
+    margin-inline: 50px;
+  }
+
+  main .main-text h2 {
+    font-family: "Open Sans", sans-serif;
+    font-size: 120%;
+    font-weight: 400;
+    text-align: center;
+    max-width: 100%;
+    margin-bottom: 3rem;
+    margin-inline: 50px;
+  }
+
+  .button {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-bottom: 5rem;
+  }
+
+  .button a {
+    padding-inline: 2.8rem;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+  }
+
+  .social {
+    position: unset;
+    justify-content: center;
+  }
+}
