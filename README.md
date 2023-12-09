@@ -7,7 +7,7 @@ Ele consiste em um layout responsivo para a promoção da plataforma "Huddle", q
 
 ## Visualização:
 
-### Desktop e Responsiva
+### Desktop e Responsiva:  
 ![gif](.\src\images\huddle-frontend-mentor.gif)
 
 
