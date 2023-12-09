@@ -124,5 +124,6 @@
   .social {
     position: unset;
     justify-content: center;
+    margin-bottom: 50px;
   }
 }
