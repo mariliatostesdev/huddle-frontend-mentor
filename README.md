@@ -8,7 +8,7 @@ Ele consiste em um layout responsivo para a promoção da plataforma "Huddle", q
 ## Visualização:
 
 ### Desktop e Responsiva
-![huddle-frontend-mentor-desktop](.\src\images\huddle-frontend-mentor-desktop.gif)
+
 
 
 ## Estrutura HTML
