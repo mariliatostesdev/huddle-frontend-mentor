@@ -9,6 +9,7 @@ Ele consiste em um layout responsivo para a promoção da plataforma "Huddle", q
 
 ### Desktop e Responsiva:  
 ![image](https://github.com/mariliatostesdev/huddle-frontend-mentor/assets/133540781/53a8bd2f-5038-4f75-a02a-90a4feb4f83c)
+![gif](./src/images/huddle-frontend-mentor.gif)
 
 
 
