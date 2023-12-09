@@ -1,10 +1,8 @@
-# huddle-frontend-mentor
-Huddle landing page with single introductory section - FrontEnt Mentor HTML and CSS Challenge
-
-
 # Huddle Challenge - Frontend Mentor
 
-Este projeto é um desafio de frontend do site Frontend Mentor. Ele consiste em um layout responsivo para a promoção da plataforma "Huddle", que reimagina a forma como construímos comunidades online.
+Este projeto é um desafio de frontend do site Frontend Mentor. 
+
+Ele consiste em um layout responsivo para a promoção da plataforma "Huddle", que reimagina a forma como construímos comunidades online.
 
 ## Estrutura HTML
 
